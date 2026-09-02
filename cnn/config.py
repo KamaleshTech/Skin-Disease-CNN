@@ -1,0 +1,8 @@
+# CNN Model Configuration
+
+IMAGE_SIZE = (224, 224)
+INPUT_SHAPE = (224, 224, 3)
+
+NUM_CLASSES = 7
+
+DROPOUT_RATE = 0.5
